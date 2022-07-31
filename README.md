@@ -1,4 +1,4 @@
-# Wine Quality Prediction
+# Wine Class Prediction
 ### Decision Tree, Random Forest, Support Vector Classifier
 
 The notebook uses variables like **pH**, **citric_acid**, **alcohol** etc. to categorize the wine samples into different categories,
